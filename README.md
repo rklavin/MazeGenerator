@@ -1,5 +1,7 @@
 # MazeGenerator
 
 Controls
-Arrow Keys - move player
+
+Arrow Keys - Move player
+
 B/L - Rebuild maze
